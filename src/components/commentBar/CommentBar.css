@@ -1,0 +1,8 @@
+.comment-bar {
+  display: flex;
+  width: 100%;
+}
+
+.text-field {
+  flex-grow: 1;
+}
